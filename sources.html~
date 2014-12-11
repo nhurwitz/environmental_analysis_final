@@ -1,0 +1,74 @@
+<!doctype html>
+
+<html>
+  
+  <head>
+    <title>Start</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script type="text/javascript" src="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <style type="text/css">
+      body {
+        padding-top: 50px;
+        padding-bottom: 20px;
+      }
+    </style>
+  </head>
+  
+  <body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">YSYTPBJJC</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li>
+              <a href="index.html">Home</a>
+            </li>
+            <li>
+              <a href="ryan.html">Ryan</a>
+            </li>
+            <li>
+              <a href="wei.html">Wei</a>
+            </li>
+            <li>
+              <a href="lotte.html">Lotte</a>
+            </li>
+            <li class="active">
+              <a href="sources.html">Sources</a>
+            </li>
+          </ul>
+        </div>
+        <!--/.navbar-collapse -->
+      </div>
+    </div>
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <ul class="list-group">
+          <li class="list-group-item">http://www.epa.gov/cleanenergy/energy-resources/refs.html</li>
+          <li class="list-group-item">http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications <br>  &nbsp;&nbsp; /national_transportation_statistics/html/table_04_15.html</li>
+          <li class="list-group-item">http://www.statisticbrain.com/commute-statistics/</li>
+          <li class="list-group-item">http://www.slate.com/articles/business/moneybox/2011/06/your_big_car_is_killing_me.html</li>
+          <li class="list-group-item">http://www.ehow.com/facts_7505345_much-energy-manufacture-car.html</li>
+          <li class="list-group-item">http://blog.gmfus.org/2013/07/05/europe-on-the-move-what-the-us-can-learn-from-europes-investment-in-a-21st-century-transportation-system/</li>
+          <li class="list-group-item">http://www.nytimes.com/2011/06/27/science/earth/27traffic.html?pagewanted=all</li>
+          <li class="list-group-item">http://www.cycling-embassy.dk/wp-content/uploads/2011/05/Bicycle-account-2010-Copenhagen.pdf</li>
+        </ul>
+      </div>
+    </div>
+    <div class="container">
+      <hr>
+      <footer>
+        <p>&copy; YSYTPBJJC 2014</p>
+      </footer>
+    </div>
+    <!-- /container -->
+  </body>
+
+</html>
